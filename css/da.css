@@ -379,4 +379,31 @@ body {
 
 /* font-face-bg */
 
+#section2 .empty {
+	width:139px;
+}
+
+ 
+#section2 .impact {
+	background: #1566CA;
+	color: white;
+	font-size:12px;
+	line-height: 24px;
+	height: 150px; 
+	margin-bottom:15px ;
+	position: relative;
+   margin-left: 10px;
+    padding-right:10px;
+    width:960px;
+}
+
+#section2 .impact .empty {
+	background: #2D76CF;
+	height: 150px!important;
+	margin:0;
+	padding-left: :10px!important;
+}
+/*PJM*/
+
+
 

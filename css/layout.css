@@ -29,6 +29,7 @@ TABLE OF CONTENTS
 */
 
 @import url("da.css");
+@import url("mo.css");
 
 
 /*  _______________________________________
@@ -718,12 +719,7 @@ width:100%;
 	left: 100%;
     width:20px;
 }
-#section2 .impact .empty {
-	background: #2D76CF;
-	height: 150px!important;
-	margin:0;
-	padding:0px!important;
-}
+
 #section2 .impact .before {
 	background: #2D76CF;
 	right: 100%;
